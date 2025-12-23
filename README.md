@@ -127,9 +127,4 @@ This enabled accurate **visit-to-purchase conversion analysis**.
 ## 📌 Key Learning
 This project demonstrates how raw clickstream data can be transformed into **decision-ready business insights** using SQL, closely reflecting real-world analytics and consulting workflows.
 
----
 
-## 🚀 Next Steps
-- Add session duration and time-to-conversion metrics  
-- Perform cohort-based conversion analysis  
-- Validate insights on larger datasets or via A/B testing  
